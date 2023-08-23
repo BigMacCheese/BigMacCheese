@@ -1,7 +1,7 @@
 ### Hi!👋
 
 My name is Juan David Martínez and I am a software engineer student at Universidad de Los Andes in Colombia, Bogotá and I am currentl in my last semester of my BS degree.
-I am an enthusiastic with the vanguard technologies and I am keen on the field related to cybersecurity, pentesting, networking threads and digital forensics.
+I am an enthusiastic with the vanguard technologies and I am keen on the field related to cybersecurity, pentesting, networking threats and digital forensics.
 
 Here are of some of the interesting projects I have worked on during my degree:
 

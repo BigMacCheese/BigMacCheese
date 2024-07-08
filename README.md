@@ -32,7 +32,7 @@ Soy un entusiasta de las tecnologías de vanguardia y me interesa todo el campo 
 
 Aquí están la descripción de algunos de los proyectos que he desarrollado a lo largo de mi carrera:
 
-:spades: He desarollado software usando los frameworks de **Django**, **NestJS** y **Angular**.
+:spades: He desarollado software usando los frameworks de **Django**, **ReactJS**, **NestJS** y **Angular**.
 
 :spades: He gestionado y manejado base de datos tanto relacionales: **MySQL** y **PostgreSQL**, y no relacionales: **MongoDB**.
 

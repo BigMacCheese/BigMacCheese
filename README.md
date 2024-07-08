@@ -5,7 +5,7 @@ I am an enthusiastic with the vanguard technologies and I am keen on the field r
 
 Here are of some of the interesting projects I have worked on during my degree:
 
-:spades: I developed software using **Django**, **Angular**, **ReactJS** frameworks.
+:spades: I developed software using **Django**, **Angular**, **ReactJS** and **NestJS** frameworks.
 
 :spades: I managed and controlled relational databases as **MySQL** and **PostgreSQL**. Also, no relational databases as **MongoDB**.
 

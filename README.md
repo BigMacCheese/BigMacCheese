@@ -1,7 +1,7 @@
 ### Hi!👋
 
-My name is Juan David Martínez and I am a software engineer student at Universidad de Los Andes in Colombia, Bogotá and I am currently in my last semester of my BS degree.
-I am an enthusiastic with the vanguard technologies and I am keen on the field related to cybersecurity and software developing. I like to learn new technologies and I adapt very well in every technology ambient that currently I am.
+My name is Juan David Martínez and I am a software engineer from Universidad de Los Andes in Colombia, Bogotá.
+I am an enthusiastic with the vanguard technologies and I am keen on the field related to blockchain, cybersecurity and software developing. I like to learn new technologies and I adapt very well in every technology ambient that currently I am.
 
 Here are of some of the interesting projects I have worked on during my degree:
 
@@ -9,13 +9,7 @@ Here are of some of the interesting projects I have worked on during my degree:
 
 :spades: I managed and controlled relational databases as **MySQL** and **PostgreSQL**. Also, no relational databases as **MongoDB**.
 
-:spades: I developed software with security components of authorization and authentication using **Auth0** and microservices.
-
-:spades: I used **Kali Linux** in order to pentesting a system and do a digital forensic analyisis.
-
-:spades: We built a network with **TCP** and **UDP** communication between a client and a server and caught the packages that went through the communication with **Wireshark**.
-
-:spades: We managed a physicial networking with **RIP**, **RIPng** and **OSPF** communication protocols.
+:spades: My final bachelor project was related to the development of a private blockchain network to do interbank transactions. We worked using **HardHat** for the development and deployment of Smart Contracts and **HyperLedger Besu** for the development of the private blockchain network.   
 
 Also, here is my laboral experience:
 
@@ -27,8 +21,9 @@ Also, here is my laboral experience:
 ### ¡Hola! 👋
 
 
-Mi nombre es Juan David Martínez y soy estudiante de ingeniería de sistemas en la Universidad de Los Andes en Colombia, Bogotá de la cual pronto me graduaré. 
-Soy un entusiasta de las tecnologías de vanguardia y me interesa todo el campo relacionado con la ciberseguridad y desarrollo de software. Me gusta aprender de nuevas tecnologías y me adapto perfecto a las necesidades que requiera el ambiente en el que esté trabajando.
+Mi nombre es Juan David Martínez y soy ingeniero de sistemas y computación en la Universidad de Los Andes en Colombia, Bogotá. 
+Soy un entusiasta de las tecnologías de vanguardia y me interesa todo el campo relacionado con el 
+Blockchain, la ciberseguridad y el desarrollo de software. Me gusta aprender de nuevas tecnologías y me adapto perfecto a las necesidades que requiera el ambiente en el que esté trabajando.
 
 Aquí están la descripción de algunos de los proyectos que he desarrollado a lo largo de mi carrera:
 
@@ -36,13 +31,9 @@ Aquí están la descripción de algunos de los proyectos que he desarrollado a l
 
 :spades: He gestionado y manejado base de datos tanto relacionales: **MySQL** y **PostgreSQL**, y no relacionales: **MongoDB**.
 
-:spades: He desarrollado software con componentes de seguridad de autorización y autenticación haciendo uso de **Auth0**.
+:spades: My final bachelor project was related to the development of a private blockchain network to do interbank transactions. We worked using **HardHat** for the development and deployment of Smart Contracts and **HyperLedger Besu** for the development of the private blockchain network.   
 
-:spades: Hice uso de **Kali Linux** para hacer una práctica de pentesting de un sistema y hace un análisis digital forense.
-
-:spades: Construimos una red de comunicación entre cliente y servidor usando **TCP** y **UDP**. En esta red de comunicación hicimos uso de **Wireshark** como herramienta de captura de paquetes durante la comunicación.
-
-:spades: Gestionamos una red física con los protocolos de comunicación de **RIP**, **RIPng** y **OSPF**.
+:spades: Mi proyecto de grado para obtener mi titulo de ingeniero de sistemas y computación fue el desarrollo de una red privada de blockchain en la cual se pudieran hacer transacciones interbancarias. Trabajamos usando **HardHat** para el desarrollo y el despliegue de Smart Contracts y **HyperLedger Besu** para el desarrollo de la red privada de Blockchain.
 
 También, aquí está mi experiencia laboral:
 
